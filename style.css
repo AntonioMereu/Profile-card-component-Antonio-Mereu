@@ -25,15 +25,21 @@ body {
   min-height: 100vh;
   min-height: 100dvh;
   background-color: var(--dark-cyan);
-  overflow: hidden;
+}
+
+.background {
+    position: absolute;
+    height: 100cqh;
+    width: 100cqw;
+    overflow: hidden;
 }
 
 .background-1 {
   position: absolute;
   background-image: url(./images/bg-pattern-top.svg);
   background-size: cover;
-  height: 100cqw;
-  width: 100cqh;
+  height: 100cqh;
+  width: 100cqw;
   transform: scaleX(-1) rotate(-90deg);
   top: -70cqw;
   left: -46cqh;
@@ -44,20 +50,20 @@ body {
   position: absolute;
   background-image: url(./images/bg-pattern-bottom.svg);
   background-size: cover;
-  height: 100cqh;
-  width: 100cqw;
+  height: 100%;
+  width: 100%;
   bottom: -50cqh;
   right: -44cqw;
   z-index: -1;
 }
-/*TODO  DIV DIVISO IN 2 CON IMG-BACK E AL CENTRO L'IMMAGINE PROFILO*/
-/*TODO  DIV ATTACCATO SOTTO O SEMPRE DENTRO <m<in> CONTENENTE LE STATS*/
+
 main {
   width: 88%;
   text-align: center;
   background-color: white;
   border-radius: 20px;
   overflow: hidden;
+  box-shadow: 0px 0px 30px hsl(195deg 46.54% 45.78%);
 }
 
 .card-img {
