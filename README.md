@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,13 +26,12 @@ Users should be able to:
 ## Desktop
 
 ![desktop design result](./design/desktop.png)
-![mobile design result 1](./design/mobile-1.png)
-![mobile design result 2](./design/mobile-2.png)
+![mobile design result](./design/mobile.png)
 
 ### Links
 
 - Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Live website]()
+- Live Site URL: [Live website](https://antoniomereu.github.io/Profile-card-component-Antonio-Mereu/)
 
 ## My process
 
