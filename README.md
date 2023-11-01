@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-css-nesting-logical-prop-PohQtC05rO)
 - Live Site URL: [Live website](https://antoniomereu.github.io/Profile-card-component-Antonio-Mereu/)
 
 ## My process
@@ -39,9 +39,9 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS Nesting
 - Mobile-first workflow
+- Logical properties
 
 ### Useful resources
 
